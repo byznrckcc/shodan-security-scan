@@ -103,6 +103,7 @@ git clone [https://github.com/BeyzanurCakici/Shodan.io-DevHunter.git](https://gi
 cd shodan-security-scan 
 ```
 
-Lisans / License
-MIT Lisansı altında lisanslanmıştır.
-Licensed under the MIT License.
+## Lisans / License
+
+[MIT Lisansı](LICENSE) altında lisanslanmıştır.
+*Licensed under the [MIT License](LICENSE).*
