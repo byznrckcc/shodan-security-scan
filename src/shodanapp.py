@@ -35,8 +35,8 @@ def main():
 
     print_and_log("=== Shodan.io Tarayıcı Başladı ===")
 
-    # 🔑  API Key'in burada
-    API_KEY = "uM2qbeAk4WhV7JHDlDf0k5BEl65EQCkk"
+    # 🔑 API key buraya eklenecek
+    API_KEY = " AbCdeFgHiJkL1234567890"
     scanner = ShodanScanner(API_KEY)
 
     start_time = time.time()
@@ -57,4 +57,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
