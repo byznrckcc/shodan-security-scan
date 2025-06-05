@@ -99,7 +99,7 @@ export SHODAN_API_KEY="YOUR_SHODAN_API_KEY_HERE"
 ### Depoyu Klonlayın / Clone the Repository:
 
 ```bash
-git clone [https://github.com/BeyzanurCakici/Shodan.io-DevHunter.git](https://github.com/byznrckcc/shodan-security-scan/edit/main/README.md) # KENDİ GİTHUB KULLANICI ADINIZLA VE REPO ADINIZLA DEĞİŞTİRİN!
+git clone [https://github.com/BeyzanurCakici/Shodan.io-DevHunter.git](https://github.com/byznrckcc/shodan-security-scan/edit/main/README.md)
 cd shodan-security-scan 
 ```
 
