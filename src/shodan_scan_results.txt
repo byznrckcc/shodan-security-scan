@@ -1,0 +1,11 @@
+Shodan.io Tarayıcı Başladı 
+Toplam cihaz sayısı: 9023983
+
+IP: 213.74.123.19
+Port: 80
+Servis: Apache httpd
+Organizasyon: Türk Telekom
+
+...
+
+Toplam süre: 0.42 saniye
