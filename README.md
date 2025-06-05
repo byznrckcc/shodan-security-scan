@@ -62,6 +62,7 @@ Shodan.io'dan faydalanarak yazılım geliştiricilerin ve ilişkili altyapılar�
 ## **Ekip / Team**
 
 * **Beyzanur Çakıcı** (242*032)
+* 
     Baş Geliştirici ve OSINT Mimarı
     Yenilikçi OSINT araçları ve gelişmiş güvenlik araştırması metodolojileri geliştirmeye güçlü bir şekilde odaklanarak projeye liderlik eder.
     *Lead Developer & OSINT Architect: Leads the project with a strong focus on building innovative OSINT tools and advanced security research methodologies.*
