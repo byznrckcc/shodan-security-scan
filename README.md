@@ -100,7 +100,8 @@ export SHODAN_API_KEY="YOUR_SHODAN_API_KEY_HERE"
 
 ```bash
 git clone [https://github.com/BeyzanurCakici/Shodan.io-DevHunter.git](https://github.com/byznrckcc/shodan-security-scan/edit/main/README.md) # KENDİ GİTHUB KULLANICI ADINIZLA VE REPO ADINIZLA DEĞİŞTİRİN!
-cd shodan-security-scan
+cd shodan-security-scan 
+```
 
 Lisans / License
 MIT Lisansı altında lisanslanmıştır.
