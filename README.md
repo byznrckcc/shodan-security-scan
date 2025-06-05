@@ -87,9 +87,21 @@ Detaylı planları görmek için [ROADMAP.md](ROADMAP.md) dosyasına göz atın.
 ---
 
 ## **Kurulum / Installation**
+python3 -m venv venv
+source venv/bin/activate  # Windows için: venv\Scripts\activate
+
+Bağımlılıkları Yükleyin / Install Dependencies:
+pip install -r requirements.txt
+
+Shodan API Anahtarını Yapılandırın / Configure Shodan API Key:
+export SHODAN_API_KEY="YOUR_SHODAN_API_KEY_HERE"
 
 ### Depoyu Klonlayın / Clone the Repository:
 
 ```bash
 git clone [https://github.com/BeyzanurCakici/Shodan.io-DevHunter.git](https://github.com/byznrckcc/shodan-security-scan/edit/main/README.md) # KENDİ GİTHUB KULLANICI ADINIZLA VE REPO ADINIZLA DEĞİŞTİRİN!
 cd shodan-security-scan
+
+Lisans / License
+MIT Lisansı altında lisanslanmıştır.
+Licensed under the MIT License.
