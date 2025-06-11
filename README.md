@@ -103,6 +103,7 @@ export SHODAN_API_KEY="YOUR_SHODAN_API_KEY_HERE"
 git clone [https://github.com/BeyzanurCakici/Shodan.io-DevHunter.git](https://github.com/byznrckcc/shodan-security-scan/edit/main/README.md)
 cd shodan-security-scan 
 ```
+# Not: API key'i kodda sabit değil, çalıştırmadan önce kullanıcıdan alınır. Güvenlik için bu yöntem tercih edilmiştir.
 
 ## Lisans / License
 
