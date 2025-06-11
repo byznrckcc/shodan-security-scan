@@ -1,0 +1,10 @@
+Lütfen Shodan API key'ini girin: [senin_key'in]
+=== IP Detayları için Shodan Tarama Başladı (IP: 8.8.8.8) ===
+IP Adresi: 8.8.8.8
+Organizasyon: Google
+Ülke: United States
+Şehir: Mountain View
+Enlem/Boylam: 37.4056, -122.0775
+Açık Portlar:
+ - Port: 53, Servis: dns
+⏱ Toplam süre: 0.45 saniye
