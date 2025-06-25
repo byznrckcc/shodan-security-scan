@@ -1,0 +1,31 @@
+{
+  "project": "Shodan Tabanlı Sızma Testi Otomasyonu",
+  "milestones": [
+    {
+      "title": "Hedefli Shodan Sorguları",
+      "description": "Hedefli Shodan sorguları oluşturmak ve çalıştırmak için temel fonksiyonlar geliştirildi.",
+      "status": "tamamlandı"
+    },
+    {
+      "title": "Veri İşleme Modülü",
+      "description": "Shodan'dan alınan ham veriyi temizlemek ve yapılandırmak için veri işleme modülü oluşturuldu.",
+      "status": "tamamlandı"
+    },
+    {
+      "title": "Çıktı Formatlama",
+      "description": "Sonuçları okunabilir formatlarda (örn. JSON, CSV) sunmak için çıktı formatlama işlevleri uygulandı.",
+      "status": "tamamlandı"
+    },
+    {
+      "title": "Temel CLI",
+      "description": "Temel komut satırı arayüzü (CLI) oluşturuldu.",
+      "status": "tamamlandı"
+    },
+    {
+      "title": "Karşılaşılan Riskler",
+      "description": "Shodan API sınırları nedeniyle sorgu hızı kısıtlamaları yaşandı; bu durum daha verimli sorgu stratejileriyle çözüldü.",
+      "status": "risk-çözüldü"
+    }
+  ],
+  "last_updated": "2025-06-25"
+}
